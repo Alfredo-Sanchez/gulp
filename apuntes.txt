@@ -46,3 +46,9 @@ SASS
 
 purgar/limpiar CSS
     npm install --save-dev gulp-purgecss
+    
+Limpirar catche
+    npm install --save-dev gulp-cache-bust
+
+Optimizar imagenes para la web
+    npm install --save-dev gulp-imagemin
